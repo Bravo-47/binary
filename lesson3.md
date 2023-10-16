@@ -39,6 +39,20 @@
 
 ![изображение](https://github.com/Bravo-47/binary/assets/52736408/00bba689-4d03-49f8-8fc7-7f9203de839f)
 
+Запустил без параметров
+
+![изображение](https://github.com/Bravo-47/binary/assets/52736408/dc4271e9-5247-433a-8740-64accd145e9e)
+
+У меня почему-то сломалось приложение
+
+![изображение](https://github.com/Bravo-47/binary/assets/52736408/8549b6f0-6c90-4013-87bb-817aae752674)
+
+Опечатался, пропустил двойные кавычки
+
+![изображение](https://github.com/Bravo-47/binary/assets/52736408/b022ecaf-c3e5-4454-8c2a-5a007b91cfdd)
+
+
+
 
 
 
