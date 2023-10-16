@@ -30,3 +30,15 @@
 804a061: cd 80 int 0x80
 ```
 Выполнение:
+
+Переписал с методички текст проги
+
+![изображение](https://github.com/Bravo-47/binary/assets/52736408/ce661979-afda-4d6c-b4de-e3bc2d4d2429)
+
+Скомпилировал
+
+![изображение](https://github.com/Bravo-47/binary/assets/52736408/00bba689-4d03-49f8-8fc7-7f9203de839f)
+
+
+
+
