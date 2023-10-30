@@ -20,4 +20,16 @@
 
 ![image](https://github.com/Bravo-47/binary/assets/52736408/409efefa-6736-45cb-8884-0bfd14fa491c)
 
-3) 
+![image](https://github.com/Bravo-47/binary/assets/52736408/42b6e8c4-be14-48e0-a62e-4f05fa19687c)
+
+не забываем про смещение
+
+![image](https://github.com/Bravo-47/binary/assets/52736408/01120947-e1c6-4dba-8fbc-fb5738d54c5c)
+
+3) Проверяем
+
+![image](https://github.com/Bravo-47/binary/assets/52736408/5c3de528-857e-45a9-b75e-d80def948a1c)
+
+Вроде всё верно
+
+4) 
